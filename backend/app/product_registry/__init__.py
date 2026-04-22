@@ -1,0 +1,1 @@
+"""Product metadata registry placeholder."""
